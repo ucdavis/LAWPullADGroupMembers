@@ -114,6 +114,7 @@ namespace LAWPullADGroupMembers
 
             Console.WriteLine(" ");
             Console.WriteLine("-----End of Program-----");
+            Console.WriteLine(" ");
             Console.ReadLine();
 
 
